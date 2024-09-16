@@ -14,6 +14,6 @@ knowledge in multiple programming languages and frameworks, and have developed v
 I have tried various platforms to learn coding 🌐 including Course Careers, Codecademy, Memo, Youtube, etc. I am excited to share everything with people who just started learning and boost their efficiency 📈
 
 ## 📍 My Goals
-🏆 To reach 10k followers on Instagram by the end of 2024 <br/>
+🏆✅ To reach 10k followers on Instagram by the end of 2024 <br/>
 🏆 To get a software engineer graduate role by 2025 Summer
 
