@@ -1,6 +1,5 @@
 ## Hello Coders! 👋
 
-- 🔭 I’m currently applying for graduate software engineer roles 
 - 🌱 I’m currently improving my skills in React.JS
 - 🚀 I study aerospace engineering (yes, not computer science)
 - 💬 Ask me about how to start learning how to code
