@@ -1,7 +1,7 @@
 ## Hello Coders! 👋
 
-- 🌱 I’m currently improving my skills in React.JS
-- 🚀 I study aerospace engineering (yes, not computer science)
+- 🌱 I’m currently learning Typescript
+- 🚀 I studied aerospace engineering (yes, not computer science)
 - 💬 Ask me about how to start learning how to code
 - 📫 How to reach me: DM me on Instagram ([@hubble.in.orbit](https://www.instagram.com/hubble.in.orbit/))
 - 😄 Pronouns: She/her
@@ -14,5 +14,5 @@ I have tried various platforms to learn coding 🌐 including Course Careers, Co
 
 ## 📍 My Goals
 🏆✅ Reach 10k followers on Instagram by the end of 2024 <br/>
-🏆✅ Get a software engineer graduate role by 2025 Summer
+🏆✅ Get a software engineer role by 2025 Summer (Amazon!!)
 
