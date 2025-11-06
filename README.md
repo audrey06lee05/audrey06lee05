@@ -14,5 +14,7 @@ I have tried various platforms to learn coding 🌐 including Course Careers, Co
 
 ## 📍 My Goals
 🏆✅ Reach 10k followers on Instagram by the end of 2024 <br/>
-🏆✅ Get a software engineer role by 2025 Summer (Amazon!!)
+🏆✅ Get a software engineer role by 2025 Summer (Amazon!!) <br/>
+🏆   Get a return offer at Amazon in 2029 <br/>
+🏆   Get a first in my current degree (second Bachelor's)
 
