@@ -1,6 +1,6 @@
 ## Hello Coders! 👋
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently making different apps
 - 🚀 I studied aerospace engineering (yes, not computer science)
 - 💬 Ask me about how to start learning how to code
 - 📫 How to reach me: DM me on Instagram ([@hubble.in.orbit](https://www.instagram.com/hubble.in.orbit/))
